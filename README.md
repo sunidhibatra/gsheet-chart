@@ -4,7 +4,7 @@
 ### Installation
 This package runs under Python 3 and above,
 You can use [pip](https://pip.pypa.io/en/stable/) to install:
-```pip install gsheet-chart==0.0.1```
+```pip install gsheet-chart==1.0.0```
 This will also install [pandas](https://pypi.org/project/pandas/), [gspread](https://pypi.org/project/gspread/), [oauth2client](https://pypi.org/project/oauth2client/), [matplotlib](https://pypi.org/project/matplotlib/) as required dependenices for the library.
 
 ### QuickStart
